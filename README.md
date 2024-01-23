@@ -52,9 +52,5 @@ This project uses Spring Boot with the following dependency:
 - `spring-boot-starter-web`: Starter for building web applications with Spring MVC.
 
 ======================================================================
-                         Additional Notes
-======================================================================
-
-Feel free to customize and expand this project based on your requirements. If you encounter any issues or have questions, refer to the Spring Boot documentation or seek assistance from the community.
-
+                         
 Happy coding!
